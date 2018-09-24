@@ -1,0 +1,684 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"str",
+				"str"
+			],
+			[
+				"st",
+				"str_1"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"f",
+				"flag"
+			],
+			[
+				"foun",
+				"found"
+			],
+			[
+				"cus",
+				"cus2"
+			],
+			[
+				"found",
+				"found-1"
+			],
+			[
+				"PrintMatche",
+				"printmatches"
+			],
+			[
+				"re",
+				"reg2"
+			],
+			[
+				"math",
+				"matches"
+			],
+			[
+				"matc",
+				"matches"
+			],
+			[
+				"cu",
+				"cus3"
+			],
+			[
+				"cs",
+				"cus3"
+			],
+			[
+				"fla",
+				"flag1"
+			],
+			[
+				"te",
+				"temp1"
+			],
+			[
+				"s",
+				"sum"
+			],
+			[
+				"acc",
+				"acc"
+			],
+			[
+				"b",
+				"bot"
+			],
+			[
+				"y",
+				"y_diff"
+			],
+			[
+				"x",
+				"x_diff"
+			],
+			[
+				"be",
+				"begin"
+			],
+			[
+				"c",
+				"c_x"
+			],
+			[
+				"fy",
+				"fy_p"
+			],
+			[
+				"ste",
+				"steps_up"
+			],
+			[
+				"p",
+				"p_id"
+			],
+			[
+				"m",
+				"m_id"
+			],
+			[
+				"row",
+				"row_wise"
+			],
+			[
+				"col",
+				"col_wise"
+			],
+			[
+				"r",
+				"row_wise"
+			],
+			[
+				"tem",
+				"temp"
+			],
+			[
+				"co",
+				"col_wise"
+			],
+			[
+				"temp",
+				"temp1"
+			],
+			[
+				"in",
+				"init_pos"
+			],
+			[
+				"St",
+				"Student"
+			],
+			[
+				"we",
+				"weight_transpose"
+			],
+			[
+				"tage",
+				"target"
+			],
+			[
+				"tra",
+				"trainingData"
+			],
+			[
+				"wei",
+				"weightFile"
+			],
+			[
+				"sav",
+				"saveWeights"
+			],
+			[
+				"set",
+				"setErrors"
+			],
+			[
+				"ma",
+				"matrixifyError"
+			],
+			[
+				"matri",
+				"Matrix"
+			],
+			[
+				"ge",
+				"getNumRows"
+			],
+			[
+				"g",
+				"getNumCols"
+			],
+			[
+				"get",
+				"getValue"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"P",
+				"printToConsole"
+			],
+			[
+				"de",
+				"derivedVals"
+			],
+			[
+				"print",
+				"printToConsole"
+			],
+			[
+				"Ma",
+				"Math"
+			],
+			[
+				"getNum",
+				"getNumCols"
+			],
+			[
+				"err",
+				"erorrs"
+			],
+			[
+				"del",
+				"deltaweight"
+			],
+			[
+				"Mat",
+				"Matrix"
+			],
+			[
+				"matr",
+				"matrixifyError"
+			],
+			[
+				"error",
+				"errors"
+			],
+			[
+				"mat",
+				"matrixifyVals"
+			],
+			[
+				"neu",
+				"NeuralNetwork"
+			],
+			[
+				"Neu",
+				"NeuralNetwork"
+			],
+			[
+				"prin",
+				"printToConsole"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"is",
+				"iostream\tstandard header"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pconfig.json",
+			"settings":
+			{
+				"buffer_size": 204,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test1.txt",
+			"settings":
+			{
+				"buffer_size": 11931,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 1608,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "predicting.c++",
+			"settings":
+			{
+				"buffer_size": 1594,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "NeuralNetwork.hpp",
+			"settings":
+			{
+				"buffer_size": 2830,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"HTML: Wrap Selection With Tag"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/johnwick/Documents/nnp/source_code/nn_f_p"
+	],
+	"file_history":
+	[
+		"/home/johnwick/Documents/nnp/nn_f_c/continue_training.cpp",
+		"/home/johnwick/Documents/nnp/nn_f_c/Classifier.cpp",
+		"/home/johnwick/Documents/nnp/nn_f_c/Backpropogation.cpp",
+		"/home/johnwick/Documents/nnp/nn_f_c/Layer.cpp",
+		"/home/johnwick/Documents/geeksforgeeks/bribe.cpp",
+		"/home/johnwick/Documents/geeksforgeeks/tcs.c++",
+		"/home/johnwick/Documents/geeksforgeeks/prime.c++",
+		"/home/johnwick/Documents/geeksforgeeks/codsef.c++",
+		"/home/johnwick/Documents/geeksforgeeks/des.c++",
+		"/home/johnwick/Documents/geeksforgeeks/s_max.cpp",
+		"/home/johnwick/Documents/geeksforgeeks/am.cpp",
+		"/home/johnwick/Documents/geeksforgeeks/ar.cpp",
+		"/home/johnwick/Documents/geeksforgeeks/L.cpp",
+		"/home/johnwick/Documents/geeksforgeeks/ai_1.cpp",
+		"/home/johnwick/Documents/geeksforgeeks/a_2.cpp",
+		"/home/johnwick/Documents/geeksforgeeks/youtube.py",
+		"/home/johnwick/Documents/interview_bit/test1.cpp",
+		"/home/johnwick/Documents/interview_bit/stars.cpp",
+		"/home/johnwick/Documents/codechef/spellbob.py",
+		"/home/johnwick/Documents/codechef/gcd_modulo.py",
+		"/home/johnwick/Documents/codechef/try.py",
+		"/home/johnwick/Documents/geeksforgeeks/iterator.cpp",
+		"/home/johnwick/Documents/geeksforgeeks/template.c++",
+		"/home/johnwick/Documents/geeksforgeeks/array1.java",
+		"/home/johnwick/Documents/geeksforgeeks/array.java",
+		"/home/johnwick/Documents/geeksforgeeks/array.py",
+		"/home/johnwick/Documents/nn/main.cpp",
+		"/home/johnwick/Documents/nn/config.json",
+		"/home/johnwick/Documents/nn/SaveWeight.json",
+		"/home/johnwick/Documents/nn/error.out",
+		"/home/johnwick/Documents/nn/NeuralNetwork.cpp",
+		"/home/johnwick/Documents/nn/Backpropogation.cpp",
+		"/home/johnwick/Documents/itocsv.py",
+		"/home/johnwick/Documents/nn/Makefile",
+		"/home/johnwick/Documents/nn/output",
+		"/home/johnwick/Documents/nn/Neuron.cpp",
+		"/home/johnwick/Documents/nn/Neuron.hpp",
+		"/home/johnwick/Documents/nn/Layer.cpp",
+		"/home/johnwick/Documents/nn/Layer.hpp",
+		"/home/johnwick/Documents/nn/Matrix.cpp",
+		"/home/johnwick/Documents/nn/Matrix.hpp",
+		"/home/johnwick/Documents/nn/Math.cpp",
+		"/home/johnwick/Documents/nn/Math.hpp",
+		"/home/johnwick/Documents/nn/feedForward.cpp",
+		"/home/johnwick/Documents/nn/Constructor.cpp",
+		"/home/johnwick/Documents/nn/json.hpp",
+		"/home/johnwick/Documents/nn/NeuralNetwork.hpp",
+		"/home/johnwick/Documents/nn/setErrors.cpp",
+		"/home/johnwick/Documents/nn/Misc.cpp",
+		"/home/johnwick/Documents/nn/Misc.hpp",
+		"/home/johnwick/Documents/nn/Classifier.cpp",
+		"/home/johnwick/Documents/nn/SaveWeights.cpp",
+		"/home/johnwick/Documents/nn/save.json",
+		"/home/johnwick/Documents/nn/train.csv",
+		"/home/johnwick/Documents/nn/neuron.cpp",
+		"/home/johnwick/Documents/nn/MakeFile",
+		"/home/johnwick/Documents/nn/main",
+		"/home/johnwick/Documents/tryv3/Matrix.cpp",
+		"/home/johnwick/Documents/tryv3/Math.hpp",
+		"/home/johnwick/Documents/tryv3/Math.cpp",
+		"/home/johnwick/Documents/tryv3/main.cpp",
+		"/home/johnwick/Documents/tryv3/constructor.cpp",
+		"/home/johnwick/Documents/tryv3/dfdf",
+		"/home/johnwick/Documents/tryv3/error.out",
+		"/home/johnwick/Documents/tryv3/Layer.cpp",
+		"/home/johnwick/Documents/tryv3/json.hpp",
+		"/home/johnwick/Documents/tryv3/feedForward.cpp",
+		"/home/johnwick/Documents/recover/tryv3/main.cpp",
+		"/home/johnwick/Documents/recover/tryv3/json.hpp",
+		"/home/johnwick/Documents/recover/tryv3/label.csv"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pconfig.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 204,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								50,
+								50
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test1.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11931,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								810,
+								810
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1608,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								372,
+								372
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 513.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "predicting.c++",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1594,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1480,
+								1480
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++11/C++11.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 825.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "NeuralNetwork.hpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2830,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++11/C++11.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 741.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++11/C++11.sublime-build",
+	"project": "nn_f_p.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
