@@ -1,0 +1,21 @@
+{
+	"topology": [784 , 10],
+ 
+ 	"learningRate": 0.05,
+
+    "momentum": 1.0,
+
+    "bias": 1.0,
+
+    "epoch": 500,
+
+    "trainingData": "../nn_f_t/test1.txt",
+
+    "weightsFile": "../nn_f_t/SaveWeight.json",
+
+    "hiddenactivationtype": 2,
+
+    "outputactivationtype": 3,
+
+    "costfunctiontype": 1
+}
