@@ -20,7 +20,7 @@ Follow the steps in order to use this program to create your own Neural Network 
 
 	6) For further understanding , in short span of time , i would create a tutorials "about how to use this program just by editing config files". 
 
-==========================================================================================================
+===========================================================================================
 	
 	Installation for Interface@2
 	----------------------------
